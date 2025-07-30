@@ -1,1 +1,9 @@
 # linear_regression
+
+P.S:Это не окончательная версия модели. Проект закончен на 80%. Со временем будут исправляться некоторые ошибки в работе модельки
+Обучил линейную регрессионную модель, предсказывающую цену на алмазы на основе их характеристик, таких как карат, цвет, таблица, глубина.
+
+
+Взодные данные можно посмотреть по ссылке: https://drive.google.com/drive/folders/17v9anrRTJFjU0WYnbmJnhenC6v8szj8G?usp=drive_link
+
+[https://drive.google.com/drive/folders/17v9anrRTJFjU0WYnbmJnhenC6v8szj8G?usp=drive_link](URL "ссылка на данные")
