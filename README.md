@@ -4,6 +4,6 @@ P.S:Это не окончательная версия модели. Проек
 Обучил линейную регрессионную модель, предсказывающую цену на алмазы на основе их характеристик, таких как карат, цвет, таблица, глубина.
 
 
-Взодные данные можно посмотреть по ссылке: https://drive.google.com/drive/folders/17v9anrRTJFjU0WYnbmJnhenC6v8szj8G?usp=drive_link
 
-[https://drive.google.com/drive/folders/17v9anrRTJFjU0WYnbmJnhenC6v8szj8G?usp=drive_link](URL "ссылка на данные")
+
+[GitHub](https://drive.google.com/drive/folders/17v9anrRTJFjU0WYnbmJnhenC6v8szj8G?usp=drive_link "ссылка на данные")
