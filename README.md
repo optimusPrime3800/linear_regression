@@ -11,3 +11,4 @@ P.S: Это не окончательная версия модели. Прое�
 [ссылка на данные](https://drive.google.com/drive/folders/17v9anrRTJFjU0WYnbmJnhenC6v8szj8G?usp=drive_link )
 
 
+[сама директория с кодом](https://drive.google.com/drive/folders/1P5pbSSdGjwj9Olp1C3ilbzLX0KkXQqHx?usp=drive_link)
